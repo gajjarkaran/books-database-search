@@ -1,6 +1,15 @@
 .searchInputs {
-  margin-top: 105px;
+  margin-top: 1px;
   display: flex;
+}
+
+h2{
+  text-align: center;
+  display: grid;
+  margin-top: 150px;
+  margin-bottom: 30px;
+  color: white;
+  text-shadow: 2px 2px 4px #222222;
 }
 
 .search input {

@@ -27,6 +27,7 @@ function SearchBar({ placeholder, data }) {
 
   return (
     <div className="search">
+      <h2>Book Search</h2>
       <div className="searchInputs">
         <input
           type="text"
