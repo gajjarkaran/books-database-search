@@ -1,3 +1,6 @@
+Search for any book
+Clicking on any book name takes you to its Wikipedia page
+
 # Link to website: 
 https://search-book-react.netlify.app/
 
